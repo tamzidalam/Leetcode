@@ -10,7 +10,7 @@ This repo is intended as the main entry point to the survey on barriers in NLP.
 
 ## What is the survey about?
 <p align="center">
-<img src="question.png" align="center" height="150" width="250" class="center">
+<img src="question.png" align="center" height="150" width="150" class="center">
 </p>
 The survey is intended to gather information about what are the current perceived barriers in NLP and how these barriers are affecting researchers from different regions of the NLP community.
 
@@ -35,7 +35,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 <p align="center">
 <img src="email.png" align="center" height="50" width="50" class="center">
 </p>
-Thank you! Send us an email to  so we can give you access to the MS Form 
+                  Thank you! Send us an email to  so we can give you access to the MS Form 
 
 
 
