@@ -32,7 +32,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 * Spanish
 
 # Do you want to help us increase coverage of languages? 
-<img src="email.png" align="right" height="50" width="50" class="center">
+<img src="email.png" align="right" height="50" width="50">
 Thank you! Send us an email to  so we can give you access to the MS Form 
 
 
