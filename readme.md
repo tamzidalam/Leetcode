@@ -33,7 +33,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 
 # Do you want to help us increase coverage of languages?
 <p align="center">
-<img src="email.png" align="right" height="150" width="250" class="center">
+<img src="email.png" align="right" height="50" width="150" class="center">
 </p>
 Thank you! Send us an email to  so we can give you access to the MS Form 
 
