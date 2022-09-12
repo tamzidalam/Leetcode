@@ -1,5 +1,5 @@
 
-<img src="final3png.png" width="250" length="250>
+<img src="final3png.png" align="centre" height="150" width="150">
 
 # Welcome to the Barriers in NLP github Page
 This repo is intended as the main entry point to the survey on barriers in NLP.
