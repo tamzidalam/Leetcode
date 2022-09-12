@@ -31,4 +31,4 @@ Thank you! Send us an email to  so we can give you access to the MS Form
 * [Manuel Montes](https://ccc.inaoep.mx/~mmontesg/)
 * [Ted Pedersen](https://www.d.umn.edu/~tpederse/)
 * [Thamar Solorio](tsolorio.uh.edu)
-  <a href="[http://ivesvh.com](https://scholar.google.com/citations?user=j9jhYqQAAAAJ&hl=en)"><img src="[https://avatars0.githubusercontent.com/u/587016?v=3](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=j9jhYqQAAAAJ&citpid=5)" width="100px;"/>
+    <a href="http://ivesvh.com"><img src="https://avatars0.githubusercontent.com/u/587016?v=3" width="100px;" alt="Ives van Hoorne"/><br /><sub><b>Ives van Hoorne</b></sub></a>
