@@ -34,9 +34,8 @@ If none of the small list of languages in here is appropriate, you can answer th
 # Do you want to help us increase coverage of languages?
 
 Thank you! Send us an email to  so we can give you access to the MS Form 
-<p align="center">
-<img src="email.png" align="center" height="50" width="100" class="center">
-</p>
+
+<img src="email.png" align="right" height="50" width="100" class="center">
 
 # Who's is organizing this and will have access to the survey data?
 
