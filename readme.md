@@ -22,7 +22,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 # Links to surveys in the following languages:
 
 <p align="center">
-<img src="kindpng_311951.png" align="right" height="150" width="250" class="center">
+<img src="kindpng_311951.png" align="right" height="150" width="150" class="center">
 </p>
 
 * Arabic
@@ -32,7 +32,9 @@ If none of the small list of languages in here is appropriate, you can answer th
 * Spanish
 
 # Do you want to help us increase coverage of languages? 
-<img src="email.png" align="right" height="50" width="50">
+<p align="center">
+<img src="email.png" align="right" height="50" width="50" class="center">
+</p>
 Thank you! Send us an email to  so we can give you access to the MS Form 
 
 
