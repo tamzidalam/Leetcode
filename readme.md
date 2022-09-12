@@ -35,9 +35,11 @@ If none of the small list of languages in here is appropriate, you can answer th
 <p align="center">
 <img src="email.png" align="center" height="50" width="50" class="center">
 </p>
-                  Thank you! Send us an email to  so we can give you access to the MS Form 
+              
 
-
+<p align="center">
+    Thank you! Send us an email to  so we can give you access to the MS Form 
+</p>
 
 # Who's is organizing this and will have access to the survey data?
 
