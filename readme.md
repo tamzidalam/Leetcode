@@ -18,7 +18,7 @@ If none of the small list of languages in here is appropriate, you can answer th
 # Links to surveys in the following languages:
 
 <p align="center">
-<img src="final3png.png" align="left" height="150" width="250" class="center">
+<img src="final3png.png" align="right" height="150" width="250" class="center">
 </p>
 
 * Arabic
