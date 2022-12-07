@@ -1,31 +1,20 @@
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
         
-        flag=0
-        if nums[0] == nums[len(nums)-1]:
-            flag=0
-         
-        if nums[0] < nums[len(nums)-1]:
-            
-            flag=1
-
-        else:
-            flag=2
-         
+        increasing= True
+        decreasing = True
+        
         for i in range(0,len(nums)-1):
             
-            if flag == 0:
-                if nums[i] != nums[i+1]:
-                    return False
-            
-            elif flag == 1 :
-                if nums[i] > nums[i+1]:
-                    return False
-            
-            else:
-                if nums[i] <nums[i+1]:
-                    return False
-         
-        return True 
-                    
-                
+            if nums[i] > nums[i+1]:
+                increasing = False
+             
+            if nums[i] < nums[i+1]:
+                decreasing = False 
+        
+        
+        
+        return increasing or decreasing 
+    
+    
+    ### if any of the condition is true, it will make it false 
