@@ -49,10 +49,10 @@ class Solution:
         left,right=head,prev
         
         while right:
-            if head.val != right.val:
+            if left.val != right.val:
                 return False
             right=right.next
-            head=head.next
+            left=left.next
         return True
         
        
