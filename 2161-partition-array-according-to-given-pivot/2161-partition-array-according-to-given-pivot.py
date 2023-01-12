@@ -1,21 +1,19 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
         
-        before=[]
-        after=[]
-        flag=0
+        ans=[]
+        
         for i in nums:
             if i < pivot:
-                before.append(i)
+                ans.append(i)
+        
+        l=len(ans)
+        for i in nums:
+            if i>pivot:
+                ans.append(i)
             
             elif i == pivot:
-                
-                after.insert(0,i)
-            
-            else:
-                after.append(i)
+                ans.insert(l,i)
                 
         
-        before+=after
-        
-        return before
+        return ans
