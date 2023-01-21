@@ -7,16 +7,16 @@ class Solution:
         
         
         while l<r:
-            
+            temp=min(height[l],height[r]) * (r-l)
+            maxx=max(maxx,temp)
             if height[l] < height[r]:
-                temp=(height[l] * (r-l))
+                
                 l+=1
             
             else:
-                temp=(height[r] * (r-l))
                 r-=1
             
-            maxx=max(maxx,temp)
+            
 
         print(maxx)
         return maxx
