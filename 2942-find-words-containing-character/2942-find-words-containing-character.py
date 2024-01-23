@@ -6,9 +6,9 @@ class Solution:
 
         for i in range(0,len(words)):
             
-            temp=set(words[i])
             
-            if x in temp:
+            
+            if x in words[i]:
                 result.append(i)
         
         
