@@ -3,21 +3,21 @@ class Solution:
         
         result=""
         
-        for i in s:
+        for i in range(0,len(s)):
             
-            if i==' ':
+            if s[i]==' ':
                                 
                 k-=1
                 
                 if k==0:
-                    break
+                    return s[:i]
                     
-                result+=" "
             
-            else:
-                result+=i
-        
-        return result
+           
+        return s
+    
+    
+    #Time Complexity
                 
                 
                 
