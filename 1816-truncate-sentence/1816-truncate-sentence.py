@@ -1,7 +1,6 @@
 class Solution:
     def truncateSentence(self, s: str, k: int) -> str:
         
-        result=""
         
         for i in range(0,len(s)):
             
