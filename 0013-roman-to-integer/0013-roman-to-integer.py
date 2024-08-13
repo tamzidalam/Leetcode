@@ -7,13 +7,16 @@ class Solution:
         
         total=0
         
+        lengthOfString=len(s)-1
+        
         for i in range(0,len(s)-1):
+            
             if symbols[s[i]]<symbols[s[i+1]]:
                 total-=symbols[s[i]]
             else:
                 total+=symbols[s[i]]
         
-        total+=symbols[s[len(s)-1]]
+        total+=symbols[s[lengthOfString]]
         
         return total
         
